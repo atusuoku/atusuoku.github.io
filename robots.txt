@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://atusuoku.github.io/FWG/sitemap_index.txt
+Sitemap: https://atusuoku.github.io/RAf/sitemap_index.txt
+Sitemap: https://atusuoku.github.io/SiB/sitemap_index.txt
+Sitemap: https://atusuoku.github.io/oxf/sitemap_index.txt
